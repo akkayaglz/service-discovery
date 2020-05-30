@@ -2,7 +2,7 @@
  
 Client-side service discovery allows services to find and communicate with each other without hard-coding hostname and port.
 
-###Spring Cloud Netflix – Eureka
+### Spring Cloud Netflix – Eureka
 
 - Eureka Server
 
@@ -24,7 +24,7 @@ Client-side service discovery allows services to find and communicate with each 
 ![serviceDiagram](serviceDiagram.PNG)
 
 
-###Spring Cloud Netflix – Hystrix
+### Spring Cloud Netflix – Hystrix
 
 - Hystrix
 
@@ -106,9 +106,9 @@ Client-side service discovery allows services to find and communicate with each 
 
 TODO'S
 ------------------
-###Spring Cloud Netflix – Zuul
+* Spring Cloud Netflix – Zuul
 
-###Spring Cloud Netflix – Chaos Monkey
+* Spring Cloud Netflix – Chaos Monkey
 
  Example request: http://localhost:8081/catalog/glz
 
